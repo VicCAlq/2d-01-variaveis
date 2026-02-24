@@ -34,12 +34,12 @@
  * as boas práticas de nomeação para variáveis (e não liguem para o "export" na frente. Mantenham ele):
  */
 // Resposta
-/* 01 */ export let meu-nome = "Felizberto Adalberto"
-/* 02 */ export const g@toRajado = "Kiki"
-/* 03 */ export let quantidade_de_bolos = 75
-/* 04 */ export let MeusColegas = ["Fulado", "Ciclano", "Beltrano"]
-/* 05 */ export const condução = "Ônibus"
-/* 06 */ export class alunoDoNave { constructor() {} }
+/* 01 */ export let meuNome = "Felizberto Adalberto"
+/* 02 */ export const gatoRajado = "Kiki"
+/* 03 */ export let quantidadeDeBolos = 75
+/* 04 */ export let meusColegas = ["Fulado", "Ciclano", "Beltrano"]
+/* 05 */ export const conducao = "Ônibus"
+/* 06 */ export class AlunoDoNave { constructor() {} }
 /* 07 */ export let golpeDoGoku = "Kamehameha"
 /* 08 */ export const tomEJerry = "Tom e Jerry"
 /* 09 */ export const ehSobreIsso = "E tá tudo bem"
