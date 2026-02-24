@@ -134,9 +134,9 @@
  */
 // Respostas
 /* O escopo de margarida consegue acessar o de joao */
-let escopo07 = false
+let escopo07 = true
 /* O escopo de enzo consegue acessar o de valentina */
-let escopo08 = false
+let escopo08 = true
 /* O escopo de valentina consegue acessar o de magda */
 let escopo09 = false
 /* O escopo de rosa consegue acessar o de violeta */

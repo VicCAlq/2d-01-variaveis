@@ -36,7 +36,7 @@
 // Resposta
 /* 01 */ export let MeuNome = "Tristeberto Adalberto"
 /* 02 */ export let GatoRajado = "Kiki"
-/* 03 */ export let QuantidadeDeBolos = "75"
+/* 03 */ export let quantidadeDeBolos = "75"
 /* 04 */ export let MeusColegas = ["Fulado", "Ciclano", "Beltrano"]
 /* 05 */ export let Condução = "Onibus"
 /* 06 */ export let AlunoDoNave = "JorgeDoGrau"
