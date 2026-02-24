@@ -121,12 +121,12 @@
  * deixam de ser acessíveis
  */
 // Respostas
-/* 01: margarida */ let escopo01 = 77
-/* 02: jaiminho */  let escopo02 = 94
-/* 03: valentina */ let escopo03 = 115
-/* 04: maria */     let escopo04 = 84
-/* 05: jose */      let escopo05 = 87
-/* 06: belarmino */ let escopo06 = 114
+/* 01: margarida */ let escopo01 = 76
+/* 02: jaiminho */  let escopo02 = 93
+/* 03: valentina */ let escopo03 = 114
+/* 04: maria */     let escopo04 = 83
+/* 05: jose */      let escopo05 = 86
+/* 06: belarmino */ let escopo06 = 113
 
 /** Questões 07 a 12
  * No mesmo escopo da referência acima, indique com true (verdadeiro) ou false (falso)

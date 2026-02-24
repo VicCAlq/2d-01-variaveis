@@ -45,5 +45,5 @@
 /* 09 */ export const ehSobreIsso = "E tá tudo bem"
 /* 10 */ export let meuEndereco = { rua: "Avenida sei lá", numero: 123, bairro: "Rouxinol Goiaba"}
 /* 11 */ export class OperacaoExplosiva { constructor () {} }
-/* 12 */ export class PersonagemFictício { constructor() {} }
+/* 12 */ export class PersonagemFicticio { constructor() {} }
 
