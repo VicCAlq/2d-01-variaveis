@@ -35,10 +35,10 @@
  */
 // Resposta
 /* 01 */ export let meu-nome = "Felizberto Adalberto"
-/* 02 */ export const g@toRajado = "Kiki"
-/* 03 */ export let quantidade_de_bolos = 75
+/* 02 */ export const gatoRajado = "Kiki"
+/* 03 */ export let QUANTIDADE_DE_BOLOS = 75
 /* 04 */ export let MeusColegas = ["Fulado", "Ciclano", "Beltrano"]
-/* 05 */ export const condução = "Ônibus"
+/* 05 */ export const conducao = "Ônibus"
 /* 06 */ export class alunoDoNave { constructor() {} }
 /* 07 */ export let GolpeDoGoku = "Kamehameha"
 /* 08 */ export const tom&Jerry = "Tom e Jerry"
